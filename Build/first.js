@@ -1,0 +1,12 @@
+"use strict";
+let x = 100;
+console.log(x);
+x = "Manisha";
+let Fname = "Manisha";
+console.log(Fname);
+let a = true;
+a = false;
+console.log(a);
+let city;
+city = "pune";
+console.log(city);
